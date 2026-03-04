@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+* {
+  font-family: "Montserrat", serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #ffffff;
+  color: #111111;
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat", serif;
+  font-weight: 300;
+  color: #111111;
+}
+
+p, body {
+  font-family: "Montserrat", serif;
+}
+
+/* Smooth transitions */
+a, button {
+  transition: all 0.3s ease-in-out;
+}
+
+/* Remove default focus outlines and add custom ones
+button:focus, a:focus {
+  outline: none;
+} */
+
+/* Custom scrollbar
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #ffffff;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #c6a46a;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #b8944a;
+} */
+
