@@ -6,7 +6,7 @@
 
 Hệ thống được xây dựng dựa trên khảo sát thực tế tại **La Sinfonia del Rey Hotel and Spa**, nhằm số hóa quy trình quản lý và đặt phòng, giảm phụ thuộc vào phương thức thủ công và các nền tảng trung gian (OTA).
 
-![Homepage](frontend/src/assets/5O4A1645-copy-2048x1365.jpg)
+![Homepage](fontend/src/assets/5O4A1645-copy-2048x1365.jpg)
 ---
 
 ## 🎯 Mục tiêu đề tài
